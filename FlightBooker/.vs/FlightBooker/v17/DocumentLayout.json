@@ -1,0 +1,1510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\ibookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\ibookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\flightdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\flightdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\controllers\\flightsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\controllers\\flightsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\mealdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\mealdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\flightsearch\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\flightsearch\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\flightsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\flightsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\citydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\citydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\controllers\\sendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\controllers\\sendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C17E88-600A-40CF-8E73-52109E2ABB53}|FlightBooker.Domains\\FlightBooker.Domains.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.domains\\datadb\\flightbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C17E88-600A-40CF-8E73-52109E2ABB53}|FlightBooker.Domains\\FlightBooker.Domains.csproj|solutionrelative:flightbooker.domains\\datadb\\flightbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C17E88-600A-40CF-8E73-52109E2ABB53}|FlightBooker.Domains\\FlightBooker.Domains.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.domains\\entitiesdb\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C17E88-600A-40CF-8E73-52109E2ABB53}|FlightBooker.Domains\\FlightBooker.Domains.csproj|solutionrelative:flightbooker.domains\\entitiesdb\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\sendmail.util\\mail\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|solutionrelative:sendmail.util\\mail\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\sendmail.util\\mail\\emailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|solutionrelative:sendmail.util\\mail\\emailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\flightclassdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\flightclassdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\routeitemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\routeitemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\ishoppingcartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\ishoppingcartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\flightclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\flightclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\bookingprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\bookingprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\bookingthanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\bookingthanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\shoppingcartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\shoppingcartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shoppingcart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shoppingcart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\shoppingcartcontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\shoppingcartcontentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\notavailable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\notavailable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\bookingoverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\bookingoverview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\bookingedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\bookingedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\booking\\bookingcancelled.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\booking\\bookingcancelled.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\bannervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\bannervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\iflightdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\iflightdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\bookingprocessvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\bookingprocessvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\flightsearchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\flightsearchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\sendmailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\sendmailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\fsresultsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\fsresultsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\bookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\bookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\send\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\send\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\send\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\send\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\sendmail.util\\mail\\interfaces\\iemailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03FEEC0-BFB0-4E94-A395-514456B13CF7}|SendMail.Util\\FlightBooker.Util.csproj|solutionrelative:sendmail.util\\mail\\interfaces\\iemailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\mybookingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\mybookingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\flightvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\flightvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\flightdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\flightdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\cityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\cityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\viewmodels\\bookingoverviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\viewmodels\\bookingoverviewvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\interfaces\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\interfaces\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\FlightProject2\\FlightBooker\\FlightBooker\\DataDB\\FlightBookingDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\interfaces\\iflightclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\interfaces\\iflightclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\ibookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\ibookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.repositories\\interfaces\\iflightclassdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BB1AA-44E7-434B-9715-C5DC42C6DE01}|FlightBooker.Repositories\\FlightBooker.Repositories.csproj|solutionrelative:flightbooker.repositories\\interfaces\\iflightclassdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker.services\\flightbooker.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68021909-F90A-47CC-9CB5-044AE87FED81}|FlightBooker.Services\\FlightBooker.Services.csproj|solutionrelative:flightbooker.services\\flightbooker.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\extentions\\sessionsextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\extentions\\sessionsextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|c:\\users\\stijn\\dev\\demoprojects\\flightbooker\\flightbooker\\flightbooker\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ECC4E41-FCCE-4BD4-86CE-7468D3DFDB48}|FlightBooker\\FlightBooker.csproj|solutionrelative:flightbooker\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\FlightDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\FlightDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\FlightDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\FlightDAO.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswK0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:48:50.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MealDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\MealDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\MealDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\MealDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\MealDAO.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:41:50.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\CityService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\CityService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\CityService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:56:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\FlightSearchController.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Controllers\\FlightSearchController.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\FlightSearchController.cs",
+              "RelativeToolTip": "FlightBooker\\Controllers\\FlightSearchController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA1wEUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:04:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Shared\\_Banner.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_Banner.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Shared\\_Banner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T14:56:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\BookingService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\BookingService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwFsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:33:34.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\BookingDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\BookingDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\BookingDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\BookingDAO.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAArwNsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:32:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IBookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IBookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IBookingDetailDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IBookingDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:41:33.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "FlightBooker\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAOoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:59:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T14:21:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\FlightSearch\\Results.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\FlightSearch\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\FlightSearch\\Results.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\FlightSearch\\Results.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T17:03:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\FlightSearch\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\FlightSearch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\FlightSearch\\Index.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\FlightSearch\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T17:01:10.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\MyBookings.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\MyBookings.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\MyBookings.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T18:34:46.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\FlightService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAArwDsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:53:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "FlightBooker\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAewF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:59:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CityDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\CityDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\CityDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\CityDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\CityDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:57:18.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SendController.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\SendController.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Controllers\\SendController.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\SendController.cs",
+              "RelativeToolTip": "FlightBooker\\Controllers\\SendController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:42:45.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Program.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Program.cs",
+              "RelativeToolTip": "FlightBooker\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:46:40.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FlightBooker\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:01:21.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T17:22:43.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Domains\\DataDB\\FlightBookingDbContext.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Domains\\DataDB\\FlightBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Domains\\DataDB\\FlightBookingDbContext.cs",
+              "RelativeToolTip": "FlightBooker.Domains\\DataDB\\FlightBookingDbContext.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAADgv54AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:05:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\ShoppingCartService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:53:38.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "SendMail.Util\\Mail\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\EmailSettings.cs",
+              "RelativeToolTip": "SendMail.Util\\Mail\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:47:55.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSend.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\EmailSend.cs",
+              "RelativeDocumentMoniker": "SendMail.Util\\Mail\\EmailSend.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\EmailSend.cs",
+              "RelativeToolTip": "SendMail.Util\\Mail\\EmailSend.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:47:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightClassDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\FlightClassDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\FlightClassDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\FlightClassDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\FlightClassDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAE4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:11:28.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Domains\\EntitiesDB\\Booking.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Domains\\EntitiesDB\\Booking.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Domains\\EntitiesDB\\Booking.cs",
+              "RelativeToolTip": "FlightBooker.Domains\\EntitiesDB\\Booking.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:12:48.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RouteItemDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\RouteItemDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\RouteItemDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\RouteItemDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\RouteItemDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:34:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShoppingCartDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IShoppingCartDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IShoppingCartDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IShoppingCartDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IShoppingCartDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:40:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:45:31.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "FlightBooker\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:48:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MealService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\MealService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\MealService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\MealService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\MealService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:45:40.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:52:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IFlightService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\Interfaces\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IFlightService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\Interfaces\\IFlightService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:46.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABoAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:18:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FlightClassService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightClassService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\FlightClassService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightClassService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\FlightClassService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:11:58.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingProcess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingProcess.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\BookingProcess.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingProcess.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\BookingProcess.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T20:08:19.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookingThanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingThanks.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\BookingThanks.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingThanks.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\BookingThanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T20:30:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShoppingCartDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\ShoppingCartDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\ShoppingCartDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\ShoppingCartDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\ShoppingCartDAO.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv3YAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:19:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\ShoppingCart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\ShoppingCart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\ShoppingCart\\Cart.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\ShoppingCart\\Cart.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAjwHAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T12:43:25.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShoppingCartContentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\ShoppingCartContentVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\ShoppingCartContentVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\ShoppingCartContentVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\ShoppingCartContentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:31:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\CartVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\CartVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\CartVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\CartVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:43:42.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NotAvailable.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\NotAvailable.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\NotAvailable.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\NotAvailable.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\NotAvailable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:00:03.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T16:35:06.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FlightBooker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FlightBooker\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T14:23:54.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BookingEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingEdit.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\BookingEdit.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingEdit.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\BookingEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T15:28:27.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BookingOverView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingOverView.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\BookingOverView.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingOverView.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\BookingOverView.cshtml",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAmwKYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T19:51:28.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookingCancelled.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingCancelled.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Booking\\BookingCancelled.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Booking\\BookingCancelled.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Booking\\BookingCancelled.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:43:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BannerVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BannerVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\BannerVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BannerVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\BannerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:01:03.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFlightDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IFlightDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IFlightDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IFlightDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IFlightDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:21:23.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\BookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\BookingDetailDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\BookingDetailDAO.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAMwF0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:20:18.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BookingProcessVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingProcessVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\BookingProcessVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingProcessVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\BookingProcessVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:41:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FlightSearchVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightSearchVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\FlightSearchVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightSearchVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\FlightSearchVM.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwvz4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:57:56.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SendMailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\SendMailVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\SendMailVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\SendMailVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\SendMailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:41:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FSResultsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FSResultsVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\FSResultsVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FSResultsVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\FSResultsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:59:29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BookingVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\BookingVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\BookingVM.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA6wCkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:42:39.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Send\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Send\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Send\\Contact.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Send\\Contact.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:40:03.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Send\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Send\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Send\\Thanks.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Send\\Thanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:40:18.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T11:38:14.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IEmailSend.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\Interfaces\\IEmailSend.cs",
+              "RelativeDocumentMoniker": "SendMail.Util\\Mail\\Interfaces\\IEmailSend.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\Mail\\Interfaces\\IEmailSend.cs",
+              "RelativeToolTip": "SendMail.Util\\Mail\\Interfaces\\IEmailSend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:53:18.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MyBookingsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\MyBookingsVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\MyBookingsVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\MyBookingsVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\MyBookingsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:56:55.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FlightVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\FlightVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\FlightVM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:02:03.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FlightDisplayVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightDisplayVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\FlightDisplayVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\FlightDisplayVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\FlightDisplayVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:11:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CityVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\CityVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\CityVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\CityVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\CityVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:49:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BookingOverviewVM.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingOverviewVM.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\ViewModels\\BookingOverviewVM.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ViewModels\\BookingOverviewVM.cs",
+              "RelativeToolTip": "FlightBooker\\ViewModels\\BookingOverviewVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:54:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T16:42:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\Interfaces\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IShoppingCartService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\Interfaces\\IShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:36:37.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:12:10.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FlightBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\FlightProject2\\FlightBooker\\FlightBooker\\DataDB\\FlightBookingDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\FlightProject2\\FlightBooker\\FlightBooker\\DataDB\\FlightBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\FlightProject2\\FlightBooker\\FlightBooker\\DataDB\\FlightBookingDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\FlightProject2\\FlightBooker\\FlightBooker\\DataDB\\FlightBookingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:02:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IFlightClassService.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IFlightClassService.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\Interfaces\\IFlightClassService.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\Interfaces\\IFlightClassService.cs",
+              "RelativeToolTip": "FlightBooker.Services\\Interfaces\\IFlightClassService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:31:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T13:38:26.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "FlightBooker\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:53:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:04:06.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwHwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:43:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:06:08.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBooker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\appsettings.json",
+              "RelativeToolTip": "FlightBooker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T10:42:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightBooker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\appsettings.Development.json",
+              "RelativeToolTip": "FlightBooker\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T12:00:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IBookingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IBookingDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IBookingDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IBookingDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IBookingDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:40:31.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "FlightBooker\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAgwAsBAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:25:32.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlightBooker\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAgwAkBAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:26:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:26:48.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:26:12.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:03:17.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FlightBooker\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:51:53.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:48:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:13:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FlightBooker\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:13:31.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:03:47.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "FlightBooker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T16:03:12.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IFlightClassDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IFlightClassDAO.cs",
+              "RelativeDocumentMoniker": "FlightBooker.Repositories\\Interfaces\\IFlightClassDAO.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\Interfaces\\IFlightClassDAO.cs",
+              "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IFlightClassDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:23:13.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "FlightBooker.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightBooker.Services.csproj",
+              "RelativeDocumentMoniker": "FlightBooker.Services\\FlightBooker.Services.csproj",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Services\\FlightBooker.Services.csproj",
+              "RelativeToolTip": "FlightBooker.Services\\FlightBooker.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T12:06:42.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SessionsExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Extentions\\SessionsExtentions.cs",
+              "RelativeDocumentMoniker": "FlightBooker\\Extentions\\SessionsExtentions.cs",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\Extentions\\SessionsExtentions.cs",
+              "RelativeToolTip": "FlightBooker\\Extentions\\SessionsExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:06:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FlightBooker\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FlightBooker\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T19:12:39.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

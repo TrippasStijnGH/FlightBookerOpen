@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock1Airline.Services\\Mock2Airline.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock1Airline.Services\\Mock2Airline.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock1Airline.Services\\Mock2Airline.Services.csproj",
+        "projectName": "Mock2Airline.Services",
+        "projectPath": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock1Airline.Services\\Mock2Airline.Services.csproj",
+        "packagesPath": "C:\\Users\\Stijn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock1Airline.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stijn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock2Airline.Domains\\Mock2Airline.Domains.csproj": {
+                "projectPath": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock2Airline.Domains\\Mock2Airline.Domains.csproj"
+              },
+              "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock2Airline.repositories\\Mock2Airline.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Stijn\\OneDrive - Hogeschool VIVES\\Bureaublad\\Fullstack 2025\\MockprojectCur\\Mock1Airline\\Mock2Airline.repositories\\Mock2Airline.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

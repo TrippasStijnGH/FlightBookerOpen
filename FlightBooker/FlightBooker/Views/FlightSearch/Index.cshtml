@@ -1,0 +1,67 @@
+﻿@model FlightBooker.ViewModels.FlightSearchVM
+
+@{
+
+    ViewData["Title"] = "Flight Search";
+
+
+}
+<!DOCTYPE html>
+
+
+
+<h2 class="mb-4">Search for Flights</h2>
+
+<form asp-controller="FlightSearch" asp-action="Results" method="post">
+    
+    <div class="row">
+
+        
+        
+        <div class="col-md-3 mb-3">
+            <label asp-for="DepartCity" class="form-label"></label>
+            <select class="form-control" asp-for="DepartCity"
+                    asp-items="Model.AvailableCities">
+                <option disabled selected value="">Select a City</option>
+            </select>
+            <span asp-validation-for="DepartCity" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <label asp-for="ArrivalCity" class="form-label"></label>
+            <select class="form-control" asp-for="ArrivalCity"
+                    asp-items="Model.AvailableCities">
+                <option disabled selected value="">Select a City</option>
+            </select>
+            <span asp-validation-for="ArrivalCity" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <label asp-for="StartDate" class="form-label"></label>
+            <input asp-for="StartDate" class="form-control" type="date" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <label asp-for="EndDate" class="form-label"></label>
+            <input asp-for="EndDate" class="form-control" type="date" />
+            <span asp-validation-for="EndDate" class="text-danger"></span>
+        </div>
+        <div class="col-md-3 mb-3">
+            <label asp-for="TravelClass" class="form-label"></label>
+            <select class="form-control" asp-for="TravelClass"
+                    asp-items="Model.AvailableClasses">
+                <option disabled selected value="">Class</option>
+            </select>
+            <span asp-validation-for="TravelClass" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="mb-4">
+        <button type="submit" class="btn btn-primary">Search Flights</button>
+    </div>
+</form>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+@await Html.PartialAsync("_Banner", Model.BannerVM)

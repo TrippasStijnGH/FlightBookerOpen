@@ -1,0 +1,36 @@
+﻿@model FlightBooker.ViewModels.BookingProcessVM
+
+<form asp-controller="Booking" asp-action="SaveMealSelections" method="post">
+    <input type="hidden" asp-for="BookingId" />
+
+    <h3>Select Meals for Your Flights</h3>
+
+    @for (int i = 0; i < Model.FlightMeals.Count; i++)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+
+                <p class="text-muted mb-0">@Model.FlightMeals[i].Route</p>
+            </div>
+            <div class="card-body">
+                <input type="hidden" asp-for="FlightMeals[i].FlightId" />
+                <input type="hidden" asp-for="FlightMeals[i].Route" />
+
+                <div class="form-group">
+                    <label>Select Meal Option:</label>
+                    <select class="form-control" asp-for="FlightMeals[i].SelectedMealId"
+                            asp-items="Model.FlightMeals[i].AvailableMeals">
+                        @if (Model.FlightMeals[i].CurrentMeal == null)
+                        {
+                            <option disabled selected value="">Kies een maaltijd</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="text-center mt-4">
+        <button type="submit" class="btn btn-primary">Bewaar maaltijd</button>
+    </div>
+</form>

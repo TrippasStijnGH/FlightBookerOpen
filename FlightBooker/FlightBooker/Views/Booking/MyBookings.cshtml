@@ -1,0 +1,77 @@
+﻿@model FlightBooker.ViewModels.MyBookingsVM;
+@foreach (var booking in Model.Bookings)
+{
+    @if (booking.Status != "Cart")
+    {
+
+    <div>
+        <div class="card mb-4 shadow-sm flight-card">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">
+                        <i class="bi bi-airplane"></i>
+                        @booking.Flights.First().DepartCityName to @booking.Flights.Last().ArriveCityName
+                    </h5>
+                    <span>Booking #@booking.BookingId</span>
+                </div>
+            </div>
+
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table mb-0">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>Flight ID</th>
+                                <th>Departure City</th>
+                                <th>Arrival City</th>
+                                <th>Departure Time</th>
+                                <th>Arrival Time</th>
+                                <th>Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var flight in booking.Flights)
+                            {
+                                <tr>
+                                    <td>@flight.FlightID</td>
+                                    <td>@flight.DepartCityName</td>
+                                    <td>@flight.ArriveCityName</td>
+                                    <td>@flight.LocalDateTimeDepart.ToString("dd/MM/yyyy hh:mm tt")</td>
+                                    <td>@flight.LocalDateTimeArrive.ToString("dd/MM/yyyy hh:mm tt")</td>
+                                    <td>@(flight.RealPrice.ToString("C") ?? "N/A")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="d-flex justify-content-between align-items-center mt-3">
+                    <div>
+                        @{
+                            decimal totalPrice = booking.Flights.Sum(f => f.RealPrice);
+                        }
+                        <h5 class="mb-0">Total Price: @totalPrice.ToString("C")</h5>
+                    </div>
+
+                    <div>
+                        <a asp-controller="Booking"
+                           asp-action="EditBooking"
+                           asp-route-bookingId="@booking.BookingId"
+                           class="btn btn-success">Edit Booking</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="card-footer">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <span class="me-2">Status:</span>
+                         <span>@booking.Status</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+}

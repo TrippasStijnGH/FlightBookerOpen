@@ -1,0 +1,48 @@
+﻿@model FlightBooker.ViewModels.SendMailVM
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact</h1>
+
+<h4>Mail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Contact">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FromName" class="control-label"></label>
+                <input asp-for="FromName" class="form-control" />
+                <span asp-validation-for="FromName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FromEmail" class="control-label"></label>
+                <input asp-for="FromEmail" class="form-control" />
+                <span asp-validation-for="FromEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message" class="control-label"></label>
+                <textarea asp-for="Message" class="form-control"></textarea>
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Invoice" /> @Html.DisplayNameFor(model => model.Invoice)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Send" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

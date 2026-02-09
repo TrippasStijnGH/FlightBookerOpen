@@ -1,0 +1,177 @@
+﻿@model FlightBooker.ViewModels.BookingOverviewVM;
+@if (ViewBag.CancelMessage != null || ViewBag.ConfirmMessage != null)
+{
+    <div class="alert alert-warning mt-3">
+        @if (ViewBag.CancelMessage != null)
+        {
+            <p>@ViewBag.CancelMessage</p>
+        }
+
+        @if (ViewBag.ConfirmMessage != null)
+        {
+            <p>@ViewBag.ConfirmMessage</p>
+        }
+    </div>
+}
+
+
+<div>
+    <div class="card mb-4 shadow-sm flight-card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table mb-0">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Flight ID</th>
+                            <th>Departure City</th>
+                            <th>Arrival City</th>
+                            <th>Departure Time</th>
+                            <th>Arrival Time</th>
+                            <th>Price</th>
+                            @if (Model.Bookingvm.Status == "Confirmed")
+                            {
+                                <th>Seat Number</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var flight in Model.Bookingvm.Flights)
+                        {
+                            <tr>
+                                <td>@flight.FlightID</td>
+                                <td>@flight.DepartCityName</td>
+                                <td>@flight.ArriveCityName</td>
+                                <td>@flight.LocalDateTimeDepart.ToString("dd/MM/yyyy hh:mm tt")</td>
+                                <td>@flight.LocalDateTimeArrive.ToString("dd/MM/yyyy hh:mm tt")</td>
+                                <td>@(flight.RealPrice.ToString("C") ?? "N/A")</td>
+                                @if (Model.Bookingvm.Status == "Confirmed")
+                                {
+                                    <td>@(flight.SeatNumber)</td>
+                                }
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+    <h4>Flight Meals</h4>
+    <div class="card mb-3">
+        <div class="card-body">
+            @{
+                bool anyMealsSelected = Model.Bookingvm.Flights.Any(f => f.Meal != null);
+            }
+
+            @if (!anyMealsSelected)
+            {
+                <p class="text-muted">No meals selected yet.</p>
+            }
+            else
+            {
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Flight</th>
+                            <th>Route</th>
+                            <th>Meal Selection</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var flight in Model.Bookingvm.Flights)
+                        {
+                            <tr>
+                                <td>@flight.FlightID</td>
+                                <td>@flight.DepartCityName to @flight.ArriveCityName</td>
+                                <td>
+                                    @if (flight.Meal != null)
+                                    {
+                                        <span>@flight.Meal</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-muted">None</span>
+                                    }
+                                </td>
+                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+
+    
+    <div class="card mb-3">
+        <div class="card-header">
+            <h5 class="mb-0">Booking Status</h5>
+        </div>
+        <div class="card-body">
+            <div class="d-flex align-items-center">
+                <strong class="me-3">Status:</strong>
+                @switch (Model.Bookingvm.Status)
+                {
+                    case "Confirmed":
+                        <span>Confirmed</span>
+                        break;
+                    case "Pending":
+                        <span>Pending</span>
+                        break;
+                    case "Cancelled":
+                        <span>Cancelled</span>
+                        break;
+                    default:
+                        <span>@Model.Bookingvm.Status</span>
+                        break;
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="d-flex justify-content-between align-items-center mt-3">
+    @{
+        decimal totalPrice = Model.Bookingvm.Flights.Sum(f => f.RealPrice);
+    }
+    <div class="d-flex justify-content-between align-items-center mt-3">
+        <div>
+            <h5 class="mb-0">Total Price: @totalPrice.ToString("C")</h5>
+        </div>
+    </div>
+
+    @if (Model.Bookingvm.Status != "Cancelled")
+    {
+        <div>
+            <a asp-controller="Booking"
+               asp-action="EditBooking"
+               asp-route-bookingId="@Model.Bookingvm.BookingId"
+               class="btn btn-success">Edit Booking</a>
+        </div>
+        if (Model.Bookingvm.Status != "Confirmed")
+        {
+            <div>
+                <a asp-controller="Booking"
+                   asp-action="ConfirmBooking"
+                   asp-route-bookingId="@Model.Bookingvm.BookingId"
+                   class="btn btn-primary">
+                    <i class="bi bi-check2-circle"></i> ConfirmBooking
+                </a>
+            </div>
+        }
+
+        @if (Model.Bookingvm.Status == "Confirmed")
+        {
+            <div>
+                <a asp-controller="Booking"
+                   asp-action="CancelBooking"
+                   asp-route-bookingId="@Model.Bookingvm.BookingId"
+                   class="btn btn-primary">
+                    <i class="bi bi-check2-circle"></i> CancelBooking
+                </a>
+            </div>
+        }
+    }
+</div>
