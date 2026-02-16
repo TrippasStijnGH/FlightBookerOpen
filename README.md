@@ -76,9 +76,12 @@ Following clean code principles, the application maintains clear separation betw
 
 ## More videos of functionality
 
-### Edit Food Selection and Booking
+### Edit Booking
+https://github.com/user-attachments/assets/0379ea13-6797-40c8-b235-3fd18fb0ace6
 
 ### Cancel Booking
+https://github.com/user-attachments/assets/c386773e-fa65-49c4-a6b1-197309e989c7
+
 
 
 
