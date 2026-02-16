@@ -1,7 +1,6 @@
-
-<p align="center">
-  <img src="DisplayGifs/testtest.gif" width="600">
-</p>
+<a href="https://github.com/TrippasStijnGH/FlightBookerOpen/raw/main/DisplayGifs/firstvid.mp4">
+     <img src="Display_Gifs/thumbnail.png" width="600">
+   </a>
 
 
 # ASP.NET Core MVC Flight Booking System
@@ -76,7 +75,5 @@ Following clean code principles, the application maintains clear separation betw
 * Microsoft SQL Server
 * ASP.NET Core Identity
 
-## Screenshots
-
-!\[Search page](https://github.com/TrippasStijnGH/FlightBookerOpen/blob/main/DisplayGifs/Search.png)
+## More videos of functionality
 
