@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="DisplayGifs/Food.gif" width="400">
-</p>
-
+https://github.com/user-attachments/assets/aae9514c-278c-4a36-b3e8-a069fa2e73ce
 
 # ASP.NET Core MVC Flight Booking System
 
