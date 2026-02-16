@@ -74,13 +74,5 @@ Following clean code principles, the application maintains clear separation betw
 
 
 
-!\[Search page](Display\_Gifs/Search.png)
-
-
-
-!\[Meal selection](Display\_Gifs/Meal\_selection.gif)
-
-
-
-!\[Booking cancelled](Display\_Gifs/Booking\_cancelled.gif)
+!\[Search page](DisplayGifs/Search.png)
 
