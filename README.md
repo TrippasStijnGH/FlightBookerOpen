@@ -74,5 +74,5 @@ Following clean code principles, the application maintains clear separation betw
 
 
 
-!\[Search page](./DisplayGifs/Search.png)
+!\[Search page](https://github.com/TrippasStijnGH/FlightBookerOpen/blob/main/DisplayGifs/Search.png)
 
