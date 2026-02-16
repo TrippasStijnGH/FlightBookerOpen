@@ -381,8 +381,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -429,8 +433,7 @@
               "RelativeToolTip": "FlightBooker.Repositories\\Interfaces\\IBookingDetailDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:41:33.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T14:41:33.875Z"
             },
             {
               "$type": "Document",
@@ -454,8 +457,7 @@
               "RelativeToolTip": "FlightBooker\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T17:22:43.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T17:22:43.468Z"
             },
             {
               "$type": "Document",
@@ -492,12 +494,7 @@
               "RelativeToolTip": "FlightBooker.Repositories\\FlightDAO.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAswK0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T16:48:50.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-03-01T16:48:50.388Z"
             },
             {
               "$type": "Document",
