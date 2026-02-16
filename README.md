@@ -1,4 +1,4 @@
-![Search page](DisplayGifs/Search.png)
+![Search page](DisplayGifs/Flight_search.gif)
 
 # ASP.NET Core MVC Flight Booking System
 
