@@ -1,7 +1,4 @@
-<a href="https://github.com/TrippasStijnGH/FlightBookerOpen/raw/main/DisplayGifs/firstvid.mp4">
-     <img src="Display_Gifs/thumbnail.png" width="600">
-   </a>
-
+https://github.com/user-attachments/assets/6b1bdb98-55ae-4e0e-a432-a85827f510e3
 
 # ASP.NET Core MVC Flight Booking System
 
