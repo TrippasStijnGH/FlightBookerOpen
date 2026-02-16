@@ -1,8 +1,7 @@
-# Showcase
-
-https://github.com/user-attachments/assets/6b1bdb98-55ae-4e0e-a432-a85827f510e3
-
 # ASP.NET Core MVC Flight Booking System
+
+## Showcase
+https://github.com/user-attachments/assets/6b1bdb98-55ae-4e0e-a432-a85827f510e3
 
 ## Project Overview
 
