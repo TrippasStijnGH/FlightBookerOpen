@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="DisplayGifs/testtest.gif" width="600">
+  <img src="DisplayGifs/Food.gif" width="600">
 </p>
 
 
