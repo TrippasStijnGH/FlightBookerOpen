@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 !\[Search page](DisplayGifs/Search.png)
 
 
+=======
+<p align="center">
+  <img src="DisplayGifs/Flight_search.gif" width="600">
+</p>
+>>>>>>> d7a6931eae20b9107a5453a142f5ee410e6b7678
 
 # ASP.NET Core MVC Flight Booking System
 
@@ -75,8 +81,6 @@ Following clean code principles, the application maintains clear separation betw
 * ASP.NET Core Identity
 
 ## Screenshots
-
-
 
 !\[Search page](https://github.com/TrippasStijnGH/FlightBookerOpen/blob/main/DisplayGifs/Search.png)
 
