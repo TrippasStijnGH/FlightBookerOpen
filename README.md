@@ -1,5 +1,3 @@
-![Search page](DisplayGifs/Flight_search.gif)
-
 <p align="center">
   <img src="DisplayGifs/Flight_search.gif" width="600">
 </p>
