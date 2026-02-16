@@ -46,3 +46,16 @@ C:\Users\Stijn\Dev\DemoProjects\FlightBooker\FlightBooker\SendMail.Util\obj\Debu
 C:\Users\Stijn\Dev\DemoProjects\FlightBooker\FlightBooker\SendMail.Util\obj\Debug\net8.0\refint\FlightBooker.Util.dll
 C:\Users\Stijn\Dev\DemoProjects\FlightBooker\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.pdb
 C:\Users\Stijn\Dev\DemoProjects\FlightBooker\FlightBooker\SendMail.Util\obj\Debug\net8.0\ref\FlightBooker.Util.dll
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\bin\Debug\net8.0\FlightBooker.Util.deps.json
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\bin\Debug\net8.0\FlightBooker.Util.dll
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\bin\Debug\net8.0\FlightBooker.Util.pdb
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.csproj.AssemblyReference.cache
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.AssemblyInfoInputs.cache
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.AssemblyInfo.cs
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.csproj.CoreCompileInputs.cache
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.sourcelink.json
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.dll
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\refint\FlightBooker.Util.dll
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\FlightBooker.Util.pdb
+C:\Users\Stijn\Dev\DemoProjects\FlightBookerVS\FlightBooker\SendMail.Util\obj\Debug\net8.0\ref\FlightBooker.Util.dll

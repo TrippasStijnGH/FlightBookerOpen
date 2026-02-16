@@ -2182,7 +2182,7 @@
         },
         "runtime": {
           "FlightBooker.Domains.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2194,7 +2194,7 @@
         },
         "runtime": {
           "FlightBooker.Repositories.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2206,7 +2206,7 @@
         },
         "runtime": {
           "FlightBooker.Services.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2217,7 +2217,7 @@
         },
         "runtime": {
           "FlightBooker.Util.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

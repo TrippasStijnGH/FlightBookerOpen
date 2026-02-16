@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQPyKDE0Zfs=",
+  "dgSpecHash": "hlFSc3IBWqE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\SendMail.Util\\FlightBooker.Util.csproj",
+  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBookerVS\\FlightBooker\\SendMail.Util\\FlightBooker.Util.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stijn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Stijn\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",

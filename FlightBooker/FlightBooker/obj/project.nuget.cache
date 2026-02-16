@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V4VrAheJ1xA=",
+  "dgSpecHash": "2MTwFW3+zRc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker\\FlightBooker.csproj",
+  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBookerVS\\FlightBooker\\FlightBooker\\FlightBooker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stijn\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Stijn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

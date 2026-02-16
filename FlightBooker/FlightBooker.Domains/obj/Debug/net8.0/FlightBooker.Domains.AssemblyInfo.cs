@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightBooker.Domains")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c56e85d7ebf1bd83f3ebd5d4a387d2f59352b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightBooker.Domains")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightBooker.Domains")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

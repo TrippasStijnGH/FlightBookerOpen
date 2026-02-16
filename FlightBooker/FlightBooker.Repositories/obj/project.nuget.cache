@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uuHPYSd9P2I=",
+  "dgSpecHash": "eYFptTeRGBY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBooker\\FlightBooker\\FlightBooker.Repositories\\FlightBooker.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Stijn\\Dev\\DemoProjects\\FlightBookerVS\\FlightBooker\\FlightBooker.Repositories\\FlightBooker.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stijn\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Stijn\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
