@@ -1,3 +1,7 @@
+!\[Search page](DisplayGifs/Search.png)
+
+
+
 # ASP.NET Core MVC Flight Booking System
 
 ## Project Overview
