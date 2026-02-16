@@ -1,3 +1,5 @@
+![Search page](DisplayGifs/Search.png)
+
 # ASP.NET Core MVC Flight Booking System
 
 ## Project Overview
@@ -71,8 +73,6 @@ Following clean code principles, the application maintains clear separation betw
 * ASP.NET Core Identity
 
 ## Screenshots
-
-
 
 !\[Search page](https://github.com/TrippasStijnGH/FlightBookerOpen/blob/main/DisplayGifs/Search.png)
 
