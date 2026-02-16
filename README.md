@@ -75,7 +75,5 @@ Following clean code principles, the application maintains clear separation betw
 * Microsoft SQL Server
 * ASP.NET Core Identity
 
-## Screenshots
-
-!\[Search page](https://github.com/TrippasStijnGH/FlightBookerOpen/blob/main/DisplayGifs/Search.png)
+## More videos of functionality
 
