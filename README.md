@@ -76,3 +76,11 @@ Following clean code principles, the application maintains clear separation betw
 
 ## More videos of functionality
 
+### Edit Food Selection and Booking
+
+### Cancel Booking
+
+
+
+
+
