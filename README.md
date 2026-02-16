@@ -72,8 +72,14 @@ Following clean code principles, the application maintains clear separation betw
 
 ## Screenshots
 
+
+
 !\[Search page](Display\_Gifs/Flight\_search.gif)
+
+
 !\[Search page](Display\_Gifs/Meal\_selection.gif)
+
+
 !\[Search page](Display\_Gifs/Booking\_cancelled.gif)
 
 
